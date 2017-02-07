@@ -1,9 +1,0 @@
-Begin Object Class=Material Name="NewMaterial"
-   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
-   End Object
-   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
-   End Object
-   StateId=44CA8663484660868FFBF1A20519BE94
-   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
-   LightingGuid=D654873B48EC65D06913C9B6E25606EF
-End Object
